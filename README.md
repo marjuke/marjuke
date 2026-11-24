@@ -10,6 +10,13 @@ I build applications with C# and .NET, with a focus on practical solutions for w
 **Data:** SQL Server  
 **Also explored:** JavaScript, Python, HTML and CSS
 
+## Areas of experience
+
+- Investment management applications
+- Gateway development and system integrations
+- Task management applications
+- Web frontend development
+
 ## Featured projects
 
 - **[Task & Team Management System](https://github.com/marjuke/Task-TeamManagementSystem)** - A task management API with search, filtering, pagination, and team workflows.
